@@ -1,8 +1,8 @@
 #include "WiFi.h" // 1. include the WiFi header - this library is installed automatically when you set up the ESP32.
 
 // 2. define two constants: Wifi Network Name and Password of that WiFi network
-#define WIFI_NETWORK "Verizon_7YV47L" // fill in with your own Wifi Name
-#define WIFI_PASSWORD "hotly-oak7-sock" // fill in with your own Wifi Password
+#define WIFI_NETWORK "your router name" // fill in with your own Wifi Name
+#define WIFI_PASSWORD "your password" // fill in with your own Wifi Password
 
 // 3. define wifi timeout: how long should the ESP32 attempt to connect to your wifi. 
 #define WIFI_TIMEOUT_MS 20000 // I want mine to try for 20s = 20'000 ms
