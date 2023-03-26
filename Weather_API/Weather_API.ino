@@ -5,7 +5,7 @@
 
 // set up your wifi name and password
 const char* ssid = "Verizon_7YV47L";
-const char* password = "hotly-oak7-sock";
+const char* password = "wifi password";
 
 
 // Enter your API-Key code (from Weather Website)
