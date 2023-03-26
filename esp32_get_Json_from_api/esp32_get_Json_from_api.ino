@@ -4,7 +4,7 @@
 
 // 1. Add these two libraries (you need to install them) 
 #define WIFI_NETWORK "Verizon_7YV47L" 
-#define WIFI_PASSWORD "hotly-oak7-sock"
+#define WIFI_PASSWORD "put password here"
 
 #define WIFI_TIMEOUT_MS 20000
 
