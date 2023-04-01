@@ -3,8 +3,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "Verizon_7YV47L";
-const char* password = "hotly-oak7-sock";
+const char* ssid = "your wifi";
+const char* password = "your password";
 
 //Your Domain name with URL path or IP address with path
 String serverName = "https://data.cdc.gov/resource/9hdi-ekmb.json";
